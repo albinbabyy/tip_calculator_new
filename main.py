@@ -15,3 +15,7 @@ O = second_name.count("O") + first_name.count("O")
 V = second_name.count("V") + first_name.count("V")
 E = second_name.count("E") + first_name.count("E")
 Sum = L + O + V + E
+
+print(f"result2 {Sum}")
+
+print(f"Your Score: {Total}{Sum}")
